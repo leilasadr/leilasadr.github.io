@@ -5,7 +5,6 @@ body {
   margin-top: 40%;
   margin-left: 5%;
  
-    
   }
 img {
   width: 100%;
@@ -15,11 +14,10 @@ img {
  text-transform: uppercase; 
  border: 1px solid;
  text-align: center;
- background-color: rgba(0,0,0, 0.3)
+ background-color: rgba(201, 76, 76, 0.3);
 }
 
 .job {
   border-bottom: 1px solid;
   margin-top: -5px;
 }
-
