@@ -1,0 +1,14 @@
+var fileInput = document.createElement('input');
+fileInput.type = 'file';
+fileInput.onchange = function() {
+  var file = fileInput.files[0];
+  var reader = new FileReader();
+  reader.onload = function(e) {
+    var img = document.createElement('img');
+    img.src = e.target.result;
+    document.body.appendChild(img);
+  };
+  reader.readAsDataURL(file);
+};
+document.body.appendChild(fileInput);
+
