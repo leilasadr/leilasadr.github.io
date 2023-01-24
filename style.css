@@ -1,28 +1,36 @@
 body {
-  background: url(https://media.istockphoto.com/id/1283615709/photo/old-brown-paper-parchment-background-design-with-distressed-vintage-stains-and-ink-spatter.jpg?b=1&s=612x612&w=0&k=20&c=dF3PPajNXtXXzoU4Qghwt9Yazu1KFNHuzmPWJ75eGCs=);
-  color: black;
-  font-family: Arial, Helvetica, sans-serif;
-  border: 2px dotted black;
-  padding: 200px;
-  background-clip: border-box;  
-}
-
- .info {
-    margin-top: -20px;
-  } 
-
-img {
-  width: 100%;
-}
-
-.rep-ed {
- text-transform: uppercase; 
- border: 1px solid;
- text-align: center;
- background-color: rgba(201, 76, 76, 0.3);
-}
-
-.job {
-  border-bottom: 1px solid;
-  margin-top: -5px;
-}
+    background: url(https://media.istockphoto.com/id/1283615709/photo/old-brown-paper-parchment-background-design-with-distressed-vintage-stains-and-ink-spatter.jpg?b=1&s=612x612&w=0&k=20&c=dF3PPajNXtXXzoU4Qghwt9Yazu1KFNHuzmPWJ75eGCs=);
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px dotted black;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 5px;
+    background-clip: border-box; 
+    ; 
+  }
+  
+   .info {
+     margin-top: -20px;
+    } 
+  
+  #leilaSadr {
+   display: grid;
+   border: 3px solid;
+   max-width: 20%;
+   margin-top: 5px;
+   margin-bottom: -20px;
+  }
+  
+  .rep-ed {
+   text-transform: uppercase; 
+   border: 3px solid;
+   text-align: center;
+   background-color: rgba(201, 76, 76, 0.3);
+  }
+  
+  .job {
+    border-bottom: 1px solid;
+    margin-top: -5px;
+    
+  }
