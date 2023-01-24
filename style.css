@@ -1,5 +1,5 @@
 body {
-    background: url(https://images.unsplash.com/photo-1615800098799-0ccb261b1f92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1310&q=80;
+    background: url(https://media.istockphoto.com/id/1283615709/photo/old-brown-paper-parchment-background-design-with-distressed-vintage-stains-and-ink-spatter.jpg?b=1&s=612x612&w=0&k=20&c=dF3PPajNXtXXzoU4Qghwt9Yazu1KFNHuzmPWJ75eGCs=);
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     border: 2px dotted black;
@@ -31,6 +31,5 @@ body {
   
   .job {
     border-bottom: 1px solid;
-    margin-top: -5px;
-    
+    margin-top: -5px; 
   }
